@@ -1,0 +1,4 @@
+image:
+  repository: 130290477184.dkr.ecr.us-east-1.amazonaws.com/dev3
+  tag: v2.0.0
+replicaCount: 1
