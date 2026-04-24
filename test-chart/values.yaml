@@ -1,0 +1,5 @@
+# These keys must match the helm.parameters in your ApplicationSet [cite: 153-154]
+image:
+  repository: 130290477184.dkr.ecr.us-east-1.amazonaws.com/dev1
+  tag: v1.0.0
+replicaCount: 1
